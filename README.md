@@ -1,6 +1,7 @@
 # closure-summary
 1. 我不打算用“函数上下文”，“AO”对象那一套来解释，太繁琐。
-2 做题的知识点：变量提升（智障 var）函数预解析和运行,具体参考[这里](https://github.com/Hanqing1996/JavaScript-advance/tree/master/%E4%BD%A0%E7%9C%9F%E7%9A%84%E6%87%82%E5%87%BD%E6%95%B0%E5%90%97)
+2. 做题的知识点：变量提升（智障 var）函数预解析和运行,具体参考[这里](https://github.com/Hanqing1996/JavaScript-advance/tree/master/%E4%BD%A0%E7%9C%9F%E7%9A%84%E6%87%82%E5%87%BD%E6%95%B0%E5%90%97)
+3. 注意函数的参数相当于在函数内声明的变量
 
 #### 题目
 ```
